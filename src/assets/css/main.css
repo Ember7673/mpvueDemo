@@ -1,0 +1,10 @@
+.inline {
+    display: inline;
+}
+.inline-block {
+    display: inline-block;
+}
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
